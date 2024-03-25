@@ -19,7 +19,7 @@ class HomePage extends StatelessWidget {
     
   ),),
   Container(height: 10),
-            Text('Engineering', style: TextStyle(
+            Text('App', style: TextStyle(
     fontFamily: 'Roboto', 
     fontSize: 15, 
     fontWeight: FontWeight.bold, 
